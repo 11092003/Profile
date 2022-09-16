@@ -1,0 +1,39 @@
+h3{
+    font-style: italic;
+    color: darkred;
+    background-color: lavender;
+    display: inline;
+}
+.top{
+    float: left;
+}
+#profilepic
+{
+    height: 200px;
+}
+
+
+.links{
+    color:blue;
+    font-size: larger;
+    
+}
+#intro
+{
+    background-color: blanchedalmond;
+}
+.study{
+    color:red;
+    background-color: antiquewhite;
+}
+#skills{
+    color:mediumvioletred;
+    background-color: antiquewhite;
+    
+}
+.link{
+    text-align: right;
+}
+a{
+    text-decoration: none;
+}
